@@ -10,8 +10,7 @@ Features
 Classic Tetris gameplay: Control falling blocks to build complete lines.
 2048 merging mechanics: Combine identical blocks to form higher-numbered blocks and clear space.
 Strategic challenge: Balance block placement and merging tiles to maximize your score.
-[Optional] Power-ups: Include special boosters to add variety to the game.
-[Optional] High score tracking: Add a leaderboard to encourage competition.
+
 How To Play
 
 Use arrow keys to move blocks left, right, and down.
